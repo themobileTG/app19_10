@@ -1,0 +1,8 @@
+{
+    "appSettings":[{
+    "mainUrl": "https://play.google.com/store/apps/details?id=com.investing.invest.finance",
+    "secondUrl" : "https://www.google.ru/",
+    "state" : "1",
+    "randomState": "40"
+    }
+]}
